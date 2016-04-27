@@ -207,7 +207,7 @@ table{
   font-size: 30px;
   line-height: 1.6em;
   position: fixed;
-  width: 150px;
+  width: 110px;
   left: 0;
   top: 0;
   bottom: 0;
@@ -217,12 +217,12 @@ table{
   justify-content: space-between;
 }
 #page-content {
-  margin-left: 150;
+  margin-left: 110;
 }
 
 #info-sidebar {
   position: static;
-  width: 150px;
+  width: 110px;
   height: 280px;
   background-color: #48B28A;
   display: flex;
@@ -233,7 +233,7 @@ table{
 
 #movie-sidebar {
   position: static;
-  width: 150px;
+  width: 110px;
   height: 280px;
   background-color: #DF362F;
   display: flex;
@@ -244,7 +244,7 @@ table{
 
 #footer-sidebar {
   position: static;
-  width: 150px;
+  width: 110px;
   height: 280px;
   background-color: #236BA9;
   display: flex;
